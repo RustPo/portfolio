@@ -1,0 +1,56 @@
+.post0 {
+    position: relative;
+    top: 250px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    font-size: 30px;
+    width: 120px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+a[href^="h"] {
+    color: aqua;
+    text-decoration: none;
+}
+
+.post1 {
+    position: relative;
+    top: 350px;
+    left: 1px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    font-size: 30px;
+    width: 350px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.post2 {
+    position: relative;
+    top: 450px;
+    border: 1px solid rgb(83, 36, 252);
+    width: 190px;
+    border-radius: 40px;
+    font-size: 30px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.mesaga0 {
+    position: relative;
+    left: 8px;
+}
+
+.mesaga1 {
+    position: relative;
+    left: 16px;
+}
+
+.mesaga2 {
+    position: relative;
+    left: 5px;
+}

@@ -1,0 +1,45 @@
+.post0 {
+    display: flex;
+    position: relative;
+    left: 150px;
+    top: 120px;
+}
+
+.img-post0 {
+    border-radius: 20%;
+}
+
+.post1 {
+    position: relative;
+    bottom: 420px;
+    right: 220px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    width: 150px;
+    font-size: 50px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.post2 {
+    position: relative;
+    top: 150px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    width: 670px;
+    font-size: 50px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.mesaga0 {
+    position: relative;
+    left: 15px;
+}
+
+.mesaga1 {
+    position: relative;
+    left: 20px;
+}

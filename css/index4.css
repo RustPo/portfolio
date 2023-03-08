@@ -1,0 +1,46 @@
+.post0 {
+    position: relative;
+    top: 250px;
+    text-align: center;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    font-size: 30px;
+    width: 280px;
+    height: 40px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.post1 {
+    position: relative;
+    top: 300px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    text-align: center;
+    font-size: 30px;
+    width: 370px;
+    height: 40px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+.post2 {
+    position: relative;
+    top: 350px;
+    border: 1px solid rgb(83, 36, 252);
+    border-radius: 40px;
+    font-size: 30px;
+    text-align: center;
+    width: 500px;
+    height: 40px;
+    background-color: rgb(83, 36, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(250, 248, 248, 0.933);
+}
+
+a[href^="h"] {
+    color: aqua;
+    text-decoration: none;
+}
